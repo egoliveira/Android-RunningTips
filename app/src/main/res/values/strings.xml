@@ -1,0 +1,223 @@
+<resources>
+    <string name="app_name">30 Days of Running Tips</string>
+
+    <string name="day_template">Day %1$d</string>
+
+    <string name="tip_01_title">Become an Aerobic Monster</string>
+    <string name="tip_01_description">
+        Mileage isn’t everything, but most runners will become stronger aerobically by carefully
+        and gradually increasing the volume of running they can handle. Increasing your mileage
+        from year to year while still being able to hit your times in workouts and races will
+        improve your VO2 max (ability to pump a lot of blood to working muscles), lactate threshold
+        (ability to clear lactate and therefore not have to slow), and running economy (amount of
+        oxygen needed to hold a certain pace).
+    </string>
+
+    <string name="tip_02_title">Practice Proprioception</string>
+    <string name="tip_02_description">
+        The simplest exercise is to close your eyes and stand on one foot. The proprioceptors in
+        your feet will collaborate with your inner ear to help your brain know if you are swaying
+        and determine what to do to keep yourself balanced. You’ll only be able to hold it for a
+        few seconds at first but should be able to work up to 10 to 15 seconds at a time. Aim for a
+        total of around a minute per leg during each session.
+    </string>
+
+    <string name="tip_03_title">Strengthen Your Whole Body</string>
+    <string name="tip_03_description">
+        Good runners condition their whole bodies. The arms drive the legs. Keep your upper body
+        and core toned with a lot of push-ups, pull-ups, sit-ups, and back raises (don’t forget
+        that the back is part of the core). Stay away from machine weights and stick to Pilates,
+        climbing, and dynamic flexibility work like yoga.
+    </string>
+
+    <string name="tip_04_title">Run More Hills</string>
+    <string name="tip_04_description">
+        One of the beauties of hills is that they really work on dynamic power, hip strength, and
+        hip mobility because you need to be able to go and drive those hips really high to get up.
+    </string>
+
+    <string name="tip_05_title">Quit Trying to Set Your PR</string>
+    <string name="tip_05_description">
+        Be process-oriented, not outcome-oriented. Get a little better with each training session —
+        a stronger squat, a harder effort on intervals. Don’t obsess about race day.
+    </string>
+
+    <string name="tip_06_title">Hydrate (Especially Before Trail Races)</string>
+    <string name="tip_06_description">
+        Due to their remote locations, many trail races have few (if any) water stations. Make sure
+        to hydrate for days in advance, and — depending on the distance of the race — consider
+        carrying a water bottle or hydration pack during the event.
+    </string>
+
+    <string name="tip_07_title">Cultivate Controlled Consistency</string>
+    <string name="tip_07_description">
+        “I try not to run 100 percent. I perform 80 percent on Tuesday, Thursday, and Saturday and
+        then at 50 percent Monday, Wednesday, Friday, and Sunday,” says Eliud Kipchoge.
+    </string>
+
+    <string name="tip_08_title">Stretch and Refuel Immediately Post-Race</string>
+    <string name="tip_08_description">
+        There’s a natural temptation when you finish a race to collapse on the ground and bask in
+        your own private glory. This is a bad idea.
+    </string>
+
+    <string name="tip_09_title">Find a Routine, Then Stick to It</string>
+    <string name="tip_09_description">
+        I dialed in my race-day outfit and nutrition plan in advance to eliminate any surprises.
+        I slept more, stopped drinking alcohol, and ate my vegetables. I put on the same clothes
+        I had been training in for the past three weeks—black shorts, white top, gray socks—and ate
+        my pre-planned breakfast of one banana, half a Clif Bar, and half a cup of coffee.
+    </string>
+
+    <string name="tip_10_title">Don’t Freak Out if You’re Undertrained</string>
+    <string name="tip_10_description">
+        A lot of people ruminate and freak out. Then they have all this nervous energy and are
+        toast during the race. The key is to stay calm and not expend energy worrying about the race.
+    </string>
+
+    <string name="tip_11_title">Fix Your Stride</string>
+    <string name="tip_11_description">
+        He had to change everything about his stride — from the way his feet were hitting the ground
+        to the way he swung his arms as he ran. It was a difficult adjustment, but he had the
+        benefit of knowing he’d already tried virtually everything else.
+    </string>
+
+    <string name="tip_12_title">Eat Whole Foods</string>
+    <string name="tip_12_description">
+        Try to eat whole foods that look as close to how they are grown as possible. Avoid the
+        processed food — like foods that dominate most conventional grocery chains. They’re packed
+        with sodium, sugar, and empty calories and are a drain on your digestive system.
+    </string>
+
+    <string name="tip_13_title">Slow Down to Spare Carbs</string>
+    <string name="tip_13_description">
+        She ran smart, at a pace that felt sustainable. She estimates she could have run a single
+        hard marathon in about 3 hours 30 minutes at the time—over 50 minutes faster than her
+        average over the ten marathons. Her marathon pace was slow, so she had little need for
+        fast energy from carbohydrates.
+    </string>
+
+    <string name="tip_14_title">It’s Not All About the Carbs</string>
+    <string name="tip_14_description">
+        Runners whose number one goal is to lose weight can cut the pasta, bread, and cereals and
+        have enough energy to complete many of the easy runs in 30 to 60 minutes. Most healthy
+        diets will still provide enough incidental carbs—byproducts of fruit and beans—to fuel you.
+    </string>
+
+    <string name="tip_15_title">Random Massages Are a Bad Idea</string>
+    <string name="tip_15_description">
+        Every athlete’s body responds differently to massage; you don’t want to find out the week
+        before your race that deep tissue work makes you uncomfortably sore.
+    </string>
+
+    <string name="tip_16_title">Layer Up When It’s Cold</string>
+    <string name="tip_16_description">
+        It’s easy to see the weather and darkness as a reason not to work out. The price tag might
+        sting up front, but buying clothes like a moisture-wicking base layer, gloves, and a
+        breathable wind-blocking top will make training outside a lot more enjoyable.
+    </string>
+
+    <string name="tip_17_title">You Need to Sprint More</string>
+    <string name="tip_17_description">
+        Five percent of an athlete’s total weekly mileage should be taken up by sprints. Someone
+        running 30 miles a week should run hill sprints for 1.5 of those miles. It’s similar in
+        theory and practice to speedwork on a track.
+    </string>
+
+    <string name="tip_18_title">Get a Hydration Pack (Especially for Ultras)</string>
+    <string name="tip_18_description">
+        Yes, there will be aid stations. But there’s no telling how much time will pass between
+        them, so bring your own fluids in a handheld bottle, pack, or belt. Which one you choose
+        is a matter of preference.
+    </string>
+
+    <string name="tip_19_title">Patience Is a Virtue</string>
+    <string name="tip_19_description">
+        In distance running, you’ve got to learn to love the process. Whether it’s in training
+        (it takes a lot of time to get better) or in racing (holding back for the first 20 miles
+        of a marathon), patience is a virtue. There are no quick fixes. It’s about believing in
+        the plan and executing.
+    </string>
+
+    <string name="tip_20_title">Don’t Hydrate Too Much Right Before Running</string>
+    <string name="tip_20_description">
+        Sloshing in your stomach is a sign that water has not worked its way into your bloodstream,
+        providing a full feeling that’s a ruse for hydration.
+    </string>
+
+    <string name="tip_21_title">Take Recovery Days Seriously</string>
+    <string name="tip_21_description">
+        The day after a tough workout, the most you want to do is jog lightly or do some form of
+        cross-training, like cycling. You need a recovery day after a hard day. No exceptions.
+    </string>
+
+    <string name="tip_22_title">Make It Social</string>
+    <string name="tip_22_description">
+        Get a group together, or join a local running club. When you’re socially and emotionally
+        invested in your workouts, it’ll be harder for you to skip them. Having running buddies
+        will help keep you from burning out or slacking off.
+    </string>
+
+    <string name="tip_23_title">Don’t Pick Just One Running Partner</string>
+    <string name="tip_23_description">
+        One of the most basic ways to add a little variety to your running life is finding
+        different running partners. You don’t need to be monogamous about whom you run with. The
+        same principle applies for those who always run alone: Try joining a group for long weekend
+        runs and (re)discover the joys of exercising with your fellow homo sapiens.
+    </string>
+
+    <string name="tip_24_title">Get Off Your Feet Before a Race</string>
+    <string name="tip_24_description">
+        Take it easy the day and night prior to race day. Race organizers don’t make that easy by
+        scheduling interesting expos and panel discussions the day before, where you are on your
+        feet, walking around, expending energy. Discipline yourself to keep that to a minimum,
+        making a conscious effort to sit and rest with your feet up as much as possible. Don’t
+        squander the good work you’ve done during your taper in the last day or two.
+    </string>
+
+    <string name="tip_25_title">Visualize Success</string>
+    <string name="tip_25_description">
+        Begin by taping an audio narrative for yourself that recreates, in as much sensual detail
+        as possible, the sensation of performing your sport. Take careful notes the next time you
+        practice…and work those into the script. Then narrate the tape entirely in the first
+        person, present tense… and choose crucial moments.
+    </string>
+
+    <string name="tip_26_title">Use Technology (But Not Too Much)</string>
+    <string name="tip_26_description">
+        Apps from MapMyRun and the USATF can help you plot your training routes in less time (no
+        more driving them beforehand). For trail running, figure out how long it takes you to run
+        a mile — maybe two minutes longer than on roads — and go by time instead. Garmin GPS
+        watches track your distance and pace. But don’t let your tools get in the way.
+    </string>
+
+    <string name="tip_27_title">Maybe Skip the Long Run</string>
+    <string name="tip_27_description">
+        You can’t just look at a singular long run or back-to-back long runs. You have to look at
+        the whole picture. Every run is like bricks that add up over time.
+    </string>
+
+    <string name="tip_28_title">Know When Your Running Shoes Are Worn Out</string>
+    <string name="tip_28_description">
+        The typical lifespan of a shoe is between 300 and 600 miles. Shoes will start to feel a
+        little different after about 200 miles — it’s a depreciation curve. Each company has a
+        different point at which their shoes will feel really flat, but it’s important to know that
+        shoes do have a lifespan. It might not be immediately clear when your shoes have bitten the
+        dust, but there are a few indications that it’s time to invest in a new pair.
+    </string>
+
+    <string name="tip_29_title">Do Not Run Drunk</string>
+    <string name="tip_29_description">
+        For one, alcohol’s a poison. Two, while it can increase aggression (a positive, depending
+        on the sport), it can also adversely affect coordination, planning, and execution of
+        movement. And three, it’s a powerful diuretic, so it depletes your water volume, much of
+        which your body takes from your blood plasma.
+    </string>
+
+    <string name="tip_30_title">Don’t Run Injured</string>
+    <string name="tip_30_description">
+        It’s hard to sit it out while waiting for an injury to heal. You risk setting back training
+        and racing goals, not to mention losing a sweet endorphin rush. But whatever ails you will
+        take longer to heal — or get worse — if you run through the pain.
+    </string>
+</resources>
